@@ -66,18 +66,6 @@ Alternatively, install the **Live Server** extension in Visual Studio Code and s
 - **Projects** — Curated interior architecture and design showcases.
 - **Contact** — Studio enquiries and contact information.
 
-## ✨ Interactive Experience
-
-AUREVÉ focuses on creating a smooth and visually engaging user experience through:
-
-- Cinematic hero text animations
-- Smooth image reveal transitions
-- Scroll-triggered content animations
-- Interactive project hover effects
-- Animated statistics and counters
-- Subtle parallax movement
-- Smooth section transitions
-- Responsive interactive elements
 
 ## 📱 Responsive Design
 
