@@ -1,23 +1,4 @@
 
-# AUREVÉ — Interior Design Studio
-
-AUREVÉ is a luxury interior design studio website that celebrates timeless elegance, modern architecture, and sophisticated living spaces. Featuring immersive visuals, refined typography, and elegant animations, the website delivers a premium digital experience inspired by contemporary interior design.
-
-## ✨ Features
-
-- Luxury and minimalist website design
-- Elegant typography and premium aesthetics
-- Immersive full-screen hero section
-- Cinematic image overlays and transitions
-- Smooth scroll-based animations
-- GSAP-powered interactive animations
-- Interactive project preview cards
-- Animated statistics section
-- Sophisticated image reveal effects
-- Smooth hover interactions
-- Parallax scrolling effects
-- Modern and responsive navigation
-- Fully responsive layouts for desktop, tablet, and mobile
 
 ## 🎨 Design Philosophy
 
